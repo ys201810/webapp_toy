@@ -7,6 +7,8 @@ fastapi/docker/typescript/dynamodb
 
 ## to do
 - [×] make api using fast api
+- [×] make api using fast api on docker
+- [ ] deploy on lambda
 
 
 ## note
